@@ -2,7 +2,7 @@
 
 請大家利用網址下載apk及使用TestFlight更新
 
-https://p.lativ.com/apk/app-lativ-production-release-221-tes.apk
+[https://p.lativ.com/apk/app-lativ-production-release-221-tes.apk]
 
 本次更新如下：
 
