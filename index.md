@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 發布2.2.1內部測試
 
-You can use the [editor on GitHub](https://github.com/Jam-hsu/InternalTesting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+請大家利用網址下載apk及使用TestFlight更新
+本次更新如下：
 
 ```markdown
-Syntax highlighted code block
+### 共同：
 
-# Header 1
-## Header 2
-### Header 3
+1. 購物車, 貨到提醒, 商品評價, 訂單明細內顯示延伸款圖片
+2. 支援中性款在男女裝分類顯示不同圖片
+3. 訂單明細頁優化
+4. 申請發票頁面加上訂單編號及開票金額
+5. 現在app內會下雪了(也會下雨)
+6. 購物車內點選相同的尺碼，現在不會把數量重置
+7. 修正退貨詳情頁UI顯示
 
-- Bulleted
-- List
+### Android:
 
-1. Numbered
-2. List
+1. 物流歷程底部加上一些空白
+2. 修正搜尋匡內的x有時候不會出現的問題
 
-**Bold** and _Italic_ and `Code` text
+### iOS:
 
-[Link](url) and ![Image](src)
+1. app在前景的時候也能收到優惠訊息
+2. 優化穿搭頁跳轉商品明細速度
+3. 修正聯繫客服圖示顏色
+4. 修正客服信息購物說明圖示
+5. 修正已使用的優惠券文字顏色
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jam-hsu/InternalTesting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
